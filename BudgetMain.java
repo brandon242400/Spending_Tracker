@@ -14,7 +14,6 @@ import javafx.scene.text.Font;
 import javafx.scene.text.FontPosture;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
-
 import java.io.*;
 import java.text.DecimalFormat;
 
